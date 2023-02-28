@@ -32,6 +32,7 @@ Para execução do código é necessário as bibliotecas abaixo:
 | openpyxl | https://openpyxl.readthedocs.io/en/stable |
 | pillow | https://pillow.readthedocs.io/en/stable/ |
 | tkinter | https://docs.python.org/3/library/tkinter.html |
+
 &nbsp;
 ## Criando um arquivo executável para Windows
 ___
