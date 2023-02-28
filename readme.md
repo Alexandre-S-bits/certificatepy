@@ -3,10 +3,10 @@
 &nbsp;
 ## Sobre
 ___
-Certificatepy é um gerador de certificados escrito em python com interface do tkinter, é possível gerar certificados com poucos cliques. 
+Certificatepy é um gerador de certificados escrito em python com interface utilizando tkinter, o objetivo é gerar certificados em massa com poucos cliques. 
 - Os dados são obtidos com o preenchimento da planilha do Excel
-- Pode-se separar em diferentes guias informações para ajudar no controle dos certificados no momento de gerar basta escolher a guia desejada
-- Com a guia coordenadas é possível alterar a posição de preenchimento das informações, sendo assim é possível gerar certificados em diferentes layouts
+- Pode-se separar em diferentes guias da planilha informações para ajudar no controle dos certificados, e no momento de gerar basta escolher a guia desejada
+- Com a guia *'coordenadas'* é possível alterar a posição de preenchimento das informações, assim é possível gerar certificados em diferentes layouts
 - As fontes padrões podem ser alteradas para combinarem com o layout do certificado  
 &nbsp;
 ##  Como usar
